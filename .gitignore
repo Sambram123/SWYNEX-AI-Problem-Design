@@ -1,0 +1,39 @@
+# ── Dataset (large binary files; download separately) ─────────────────────
+data/*.parquet
+data/*.csv
+data/*.json
+
+# ── Python cache ──────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ──────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Sentence-transformers model cache ─────────────────────────────────────
+# (downloaded automatically on first run, not committed)
+models/
+.cache/
+
+# ── IDE / OS files ────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# ── Secrets / API keys ────────────────────────────────────────────────────
+.env
+*.key
+secrets.json
+
+# ── Build / distribution ──────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/

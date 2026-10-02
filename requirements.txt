@@ -1,0 +1,6 @@
+# Core dependencies for Task 2 – Model Integration
+pandas>=2.0
+pyarrow>=14.0
+sentence-transformers>=2.6
+scikit-learn>=1.3
+numpy>=1.26

@@ -1,0 +1,52 @@
+[
+  {
+    "product_title": "Logitech M510 Wireless Computer Mouse – Comfortable Shape with USB Unifying Receiver, with Back/Forward Buttons and Side-to-Side Scrolling, Dark Gray",
+    "parent_asin": "B003NR57BY",
+    "review_1": "This mouse works very well and I haven't had to change batteries since I bought it 3 months ago, and I never turn it off.<br />The mouse does like a mouse surface, forget about a glass table top. Works on your leg just fine, bed, chair arm, etc..",
+    "review_2": "Bought this mouse, it worked great for about 2 months.. then it just died. Replaced batteries and all. When I tried to reinstall it, my laptop tells me it doesn't recognize the device. this is the 3rd Logitech mouse I have tried, and the 3rd time it's died. I'm switching to a different brand.",
+    "sentiment_1": "Positive",
+    "sentiment_2": "Negative",
+    "similarity_score": 0.7657,
+    "contradiction_detected": true
+  },
+  {
+    "product_title": "EBL 2800mAh Ni-MH AA Rechargeable Batteries (8 Pack) and Rechargeable AA AAA Battery Charger",
+    "parent_asin": "B0BS6KLLT1",
+    "review_1": "UPDATE: I have been keeping the charger in use for several months, swapping out batteries as needed. Still working well, no overheating or other glitches. EXCELLENT VALUE! Original review: The batteries fit more securely in this charger for two reasons: it can lay flat and doesn't need a wall plug, and the contacts flex slightly to hold the batteries in place better than my wall outlet charger from a major battery brand (which I bought since the red/green light is large and doubles as a night light). Charge all of the batteries overnight, remove, then replaced and charge again if lights go back to red (if you understand the rechargeable battery technology, you'll know why). Includes reusable cases so you can rotate a supply easily. I have no idea how the batteries themselves compare to other brands (how many times you can cycle them), but you'll need rechargables to replace the ones in solar lights (usually without a screwdriver) instead of trashing the lights. Reduce, reuse, then recycle.",
+    "review_2": "The charger works well but it's the batteries that are sub par. The fully charged batteries have a charge life of about half of a good brand throw away alkaline battery. So what's the use of a good charger that chargers batteries that need to be almost constantly recharged. And the batteries are being used in low power things such as tv remotes or motion activated hallway lights. I would pass on this and simply use the keep going and going type of batteries.",
+    "sentiment_1": "Positive",
+    "sentiment_2": "Negative",
+    "similarity_score": 0.7522,
+    "contradiction_detected": true
+  },
+  {
+    "product_title": "EBL 2800mAh Ni-MH AA Rechargeable Batteries (8 Pack) and Rechargeable AA AAA Battery Charger",
+    "parent_asin": "B0BS6KLLT1",
+    "review_1": "I bought 4 8pk chargers and they came with batteries. Easy to use charges quickly and lasts a long time",
+    "review_2": "It's a slower charger than I would have liked - I prefer speedy chargers. It takes a whole day to charge the batteries, and even then they don't last long, even when the green light finally turns on. Donating this one and buying a different brand.",
+    "sentiment_1": "Positive",
+    "sentiment_2": "Negative",
+    "similarity_score": 0.7288,
+    "contradiction_detected": true
+  },
+  {
+    "product_title": "Bose SoundSport Free, True Wireless Earbuds, (Sweatproof Bluetooth Headphones for Workouts and Sports), Midnight Blue / Citron",
+    "parent_asin": "B074F3YW3R",
+    "review_1": "The headphones have a solid fit and finish (at $250 they should). The case is quite nice and the headphone stay in place via magnets.<br /><br />Pros<br />Easy setup with the Bose App.<br />Headphones fit snugly for long periods of time without causing ear fatigue.<br />Deep bass (almost too much when in quiet spaces).<br />Long battery life.<br />Take calls (right ear bud only)<br /><br />Cons<br />Expensive<br />Headphones stick out of your ears quite a bit.<br />No noise cancelling.<br />If you have $250 to spare and are in the market for very good Bluetooth ear buds these should be top of your list.",
+    "review_2": "I found Bose's latest wireless headphones to be a fairly serious disappointment, which was surprising and frustrating after having bought 5 or 6 pairs of headphones over the years, along with speakers and a Wave Radio. I *like* Bose products.<br /><br />Let me start with the positive, to be fair.<br /><br />1. They sound great.<br />2. They stay in my ears. (A feature Apple did not think to include with their glorious AirPods.)<br />3. The Bose connect app on the iPhone is slick and useful.<br /><br />The negatives.<br /><br />1. They are very big and jut from my ears in a way that looks comical. I've seen other people compare them to the bolts on Frankenstein's neck, but for the ears. Actually, though, it's worse than that, because their weight makes them droop. So I'd describe the look as more Frankenstein Eeyore. If you have hair that covers your ears, you will probably be ok. But I am close to bald, so I can't really wear them in public. Since I bought them to wear during my workouts at LA Fitness and while coding at work, the fact that they make me look silly is a show stopper.<br /><br />2. Given the look issues, I'd love to wear them when I listen to music on my computer at home, but they don't pair properly with Windows 10. They have a voice profile and a music profile. No matter how I fiddle with my PC, based on advice from the various threads on Bose's support forums, I cannot get the music profile to activate. The reason this is a problem is that the voice profile only plays music in one ear, and at far reduced quality. Like it's-being-piped-to-your-ear-through-Satan's-toilet quality. Bose's suppport forums have various threads about this, and it's clear that some part of Bose's software group either doesn't get it or is trying to avoid publicly stating that they can't fix the problem. They claim it is Windows or software differences on various PCs, but my Apple AirPods work fine as do Bose's SoundSport Wireless headphones (though they lack a mic, so the scenario is somewhat different).<br /><br />3. I wish there was a way to hear audio in both ears while making calls. You can do this with the AirPods.",
+    "sentiment_1": "Positive",
+    "sentiment_2": "Negative",
+    "similarity_score": 0.7184,
+    "contradiction_detected": true
+  },
+  {
+    "product_title": "EBL 2800mAh Ni-MH AA Rechargeable Batteries (8 Pack) and Rechargeable AA AAA Battery Charger",
+    "parent_asin": "B0BS6KLLT1",
+    "review_1": "This is an inexpensive charger that does the job well. Be sure to read the directions carefully and follow them -- especially the requirement that you charge batteries in pairs. Apparently this device can distinguish between Ni-cad and NIMH batteries on its own (it has no switch to set for that distinction).",
+    "review_2": "The charger works well but it's the batteries that are sub par. The fully charged batteries have a charge life of about half of a good brand throw away alkaline battery. So what's the use of a good charger that chargers batteries that need to be almost constantly recharged. And the batteries are being used in low power things such as tv remotes or motion activated hallway lights. I would pass on this and simply use the keep going and going type of batteries.",
+    "sentiment_1": "Positive",
+    "sentiment_2": "Negative",
+    "similarity_score": 0.718,
+    "contradiction_detected": true
+  }
+]
